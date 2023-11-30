@@ -8,9 +8,8 @@ const App = () => {
     <>
     
     <Header/>
-    <div className='flex items-center'>
 
-</div>
+
     <Outlet/>
     <Footer />
     </>
